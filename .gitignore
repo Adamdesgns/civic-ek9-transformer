@@ -1,0 +1,26 @@
+# Python caches and Blender autosaves
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+
+# Generated rebuild output (curated review evidence is tracked in evidence/)
+blender/renders/
+
+# Earlier comparison car references; keep the yellow #111040 gallery
+refs/ref_images/ek9-gallery/black-*
+
+# Machine-specific installation helpers, not needed to open or rebuild the model
+tools/install_verified_correction.ps1
+tools/install_ek9_transformer.ps1
+
+# Local verification downloads
+.github-verify/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store

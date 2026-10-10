@@ -1,0 +1,4 @@
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py:28: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.node_tree.nodes.get('Background').inputs['Strength'].default_value = 0.4
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py:49: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  bs.inputs['Base Color'].default_value = (.10, .10, .10, 1)

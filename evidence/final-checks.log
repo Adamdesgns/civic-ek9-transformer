@@ -1,0 +1,47 @@
+00:00.719  blend            | Read blend: "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9-car.blend"
+MESH  object                faces     zero       % pieces
+MESH  bumperF               40426        6   0.01% 
+MESH  bumperR               58651        1   0.00% 
+MESH  glassRun               3086        2   0.06% 
+MESH  grilleMesh            12337       18   0.15% 1
+MESH  hatchPanel            54987        4   0.01% 
+MESH  hood                  20626       25   0.12% 
+MESH  intake                22211        2   0.01% 
+MESH  lamp.L                 4639        3   0.06% 
+MESH  lamp.R                 4684        1   0.02% 
+MESH  lampReflector.L        5952       23   0.39% 1
+MESH  lampReflector.R        5948       15   0.25% 1
+MESH  mirrorBase.L             85        0   0.00% 1
+MESH  mirrorBase.R             85        0   0.00% 1
+MESH  quarter.L              8229        4   0.05% 
+MESH  quarter.R              8471        5   0.06% 
+MESH  spoiler                3644        1   0.03% 1
+MESH  tailLamp2.L            3319        3   0.09% 
+MESH  tailLamp2.R            3318        2   0.06% 
+MESH  tailReflector.L       12162       12   0.10% 1
+MESH  tailReflector.R       12195       20   0.16% 1
+MESH  vent.L                  432        2   0.46% 
+MESH  vent.R                  432        1   0.23% 
+MESH  wheel.FL               9095       17   0.19% 
+MESH  wheel.FR               9095       17   0.19% 
+MESH  wheel.RL               9095       17   0.19% 
+MESH  wheel.RR               9095       17   0.19% 
+MESH  windshield             3378        2   0.06% 
+MESH PASS
+HOLES sideL rays  51425 failing   244 holes    0 clusters 0
+HOLES sideR rays  51425 failing   190 holes    0 clusters 0
+HOLES front rays  20933 failing   225 holes    0 clusters 0
+HOLES rear  rays  20933 failing    17 holes    0 clusters 0
+HOLES PASS
+CHECK PASS
+BELT_CLEARANCE PASS minimum 23.8 mm
+ROOF_RAIL PASS 20 surface probes across the old seam
+00:07.735  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\outdoor-hero.png'
+00:09.797  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\outdoor-hood.png'
+00:11.657  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\outdoor-roof.png'
+Info: Packed 1 file(s)
+Info: Saved as "civic-ek9-yellow-refined.blend"
+FINAL_PREVIEW_SAVED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

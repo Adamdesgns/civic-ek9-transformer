@@ -1,0 +1,41 @@
+PANEL hood
+PANEL cowl
+PANEL windshield
+PANEL roof
+PANEL hatchGlass
+PANEL hatchPanel
+PANEL fender.L
+PANEL door.L
+PANEL winF.L
+PANEL winR.L
+PANEL sash.L
+PANEL sill.L
+PANEL bpillar.L
+PANEL quarter.L
+PANEL fuelLid
+PANEL skirt.L
+PANEL fender.R
+PANEL door.R
+PANEL winF.R
+PANEL winR.R
+PANEL sash.R
+PANEL sill.R
+PANEL bpillar.R
+PANEL quarter.R
+PANEL skirt.R
+PANEL glassRun
+PANEL bumperF
+PANEL bumperR
+01:00.562  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+01:06.859  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\hood.png'
+01:12.187  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\roof.png'
+01:17.172  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\hero.png'
+01:22.140  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\side.png'
+01:27.281  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\final\front.png'
+finish: bevel dropped on grilleMesh
+car parts: 92 in 57.4s
+Info: Saved as "civic-ek9-car.blend"
+REVIEW_COMPLETE final
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

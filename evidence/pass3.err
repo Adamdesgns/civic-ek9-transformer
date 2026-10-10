@@ -1,0 +1,4 @@
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py:28: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py:49: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True

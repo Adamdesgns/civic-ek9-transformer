@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py", line 15, in <module>
+    build.car_only()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9_build\ek9\build.py", line 27, in car_only
+    parts = car.build(c)
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9_build\ek9\car.py", line 365, in build
+    parts.build(coll, parts_, K)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9_build\ek9\parts.py", line 1284, in build
+    headlamps(coll, parts_, K)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9_build\ek9\parts.py", line 330, in headlamps
+    cup, hole, apex = lamp_cup(s * xc, zc, r, lens_tree)
+                      ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9_build\ek9\parts.py", line 291, in lamp_cup
+    raise RuntimeError('lamp cup rim off the lens at (%.3f, %.3f)' % (xc + dx, zc + dz))
+RuntimeError: lamp cup rim off the lens at (0.529, 0.601)
+
+Error: script failed, file: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\reference_review.py', exiting.

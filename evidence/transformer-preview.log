@@ -1,0 +1,27 @@
+00:00.734  blend            | Read blend: "C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\blender\civic-ek9-transformer.blend"
+00:01.734  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:11.687  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\001.png'
+00:17.375  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\011.png'
+00:23.172  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\021.png'
+00:29.015  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\031.png'
+00:34.328  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\041.png'
+00:40.015  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\051.png'
+00:47.187  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\061.png'
+00:54.750  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\071.png'
+01:00.328  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\081.png'
+01:06.078  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\091.png'
+01:11.406  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\101.png'
+01:16.250  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\111.png'
+01:21.047  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\121.png'
+01:27.062  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\131.png'
+01:33.875  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\141.png'
+01:39.218  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\151.png'
+01:44.703  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\161.png'
+01:50.281  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\171.png'
+01:55.640  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\181.png'
+02:00.703  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\191.png'
+02:06.500  render           | Saved: 'C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\evidence\transformer\animation-final\201.png'
+ANIMATION_PREVIEW_COMPLETE
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

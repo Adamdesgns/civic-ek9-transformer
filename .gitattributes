@@ -1,0 +1,9 @@
+# Preserve the exact bytes of this asset/source backup on every platform.
+* -text
+*.blend binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.hdr binary

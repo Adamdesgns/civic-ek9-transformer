@@ -1,0 +1,4 @@
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\build_transformer.py:14: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('EK9 robot studio');world.use_nodes=True
+C:\Users\steam\OneDrive\Documents\ChatGPT\Transformers\tools\civic-ek9\build_transformer.py:24: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m=bpy.data.materials.new('Robot stage');m.use_nodes=True
