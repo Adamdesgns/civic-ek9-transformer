@@ -13,7 +13,7 @@ Use Blender 5.2 and open **[civic-ek9-transformer.blend](blender/civic-ek9-trans
 - **[Animated preview](evidence/transformer/conversion.gif)** and **[review images](evidence/transformer/)**.
 - **[Animation and rebuild notes](docs/ek9-transformer.md)**.
 
-On a Blender file's GitHub page, use **Download raw file**, or download the whole repository with **Code → Download ZIP**. Sign in to an account with access because this repository is private.
+On a Blender file's GitHub page, use **Download raw file**, or download the whole repository with **Code → Download ZIP**. This repository is public; no sign-in is required to browse or download it.
 
 ## Contents
 
